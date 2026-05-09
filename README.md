@@ -13,23 +13,19 @@ OS: Windows Server 2022+ Windows 11 Pro
 Hypervisor: VirtualBox 
 
 🛠️ Skills & Technologies  
-
-🛠️ Skills & Technologies 
-
-Column 1	Column 2
 Category 	Tools / Concepts 
-Virtualization 	VirtualBox, VM provisioning, VHD management, Guest Additions, network adapter modes 
-Windows Server 	Windows Server 2022, Server Manager, SConfig, RDP 
-Active Directory 	AD DS, domain promotion, OU structure, user & group management 
-DNS 	Forward/Reverse Lookup Zones, A, CNAME, SOA, NS, SRV records 
-DHCP 	Scope configuration, lease management, IP exclusions 
-Group Policy 	GPO creation, password/lockout policy, software deployment, printer policy 
-PowerShell 	Bulk user creation, password reset scripts, system info automation 
-NTFS Permissions 	Inheritance, security groups, share permissions, effective access auditing 
-Ticketing System 	osTicket, XAMPP/Apache, MySQL/phpMyAdmin 
-Patch Management 	Action1 endpoint agent, vulnerability scanning, update deployment 
-Backup & Recovery 	Shadow Copies, previous version restoration, Windows Server Backup 
-Event Viewer 	Log filtering, custom views, Event IDs 4625/4740, .evtx export 
+Virtualization: 	VirtualBox, VM provisioning, VHD management, Guest Additions, network adapter modes 
+Windows Server: 	Windows Server 2022, Server Manager, SConfig, RDP 
+Active Directory: 	AD DS, domain promotion, OU structure, user & group management 
+DNS: 	Forward/Reverse Lookup Zones, A, CNAME, SOA, NS, SRV records 
+DHCP: 	Scope configuration, lease management, IP exclusions 
+Group Policy: 	GPO creation, password/lockout policy, software deployment, printer policy 
+PowerShell: 	Bulk user creation, password reset scripts, system info automation 
+NTFS Permissions: 	Inheritance, security groups, share permissions, effective access auditing 
+Ticketing System: 	osTicket, XAMPP/Apache, MySQL/phpMyAdmin 
+Patch Management: 	Action1 endpoint agent, vulnerability scanning, update deployment 
+Backup & Recovery: 	Shadow Copies, previous version restoration, Windows Server Backup 
+Event Viewer: 	Log filtering, custom views, Event IDs 4625/4740, .evtx export 
 
 
  
